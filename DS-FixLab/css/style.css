@@ -29,10 +29,11 @@ body{
 	clear: both;
 	display: inline-block;
 }
-#footer{
+footer{
 	background-color: #ff6666;
 	height: 10%;
 	width: 100%;
+	padding-left: 10px;
 }
 
 /*You need to style the ordered list selector*/
@@ -47,6 +48,3 @@ section p{
 	padding-top: 10px;
 	padding-left: 10px;
 }
- #footer{
- 	padding-left: 10px;
- }
